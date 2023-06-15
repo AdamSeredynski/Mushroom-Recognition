@@ -1,20 +1,19 @@
 Project by Adam Seredyński
 
-Author doesn't take responsibility for usage of this code.
-Project made for demonstration purposes ONLY
-
+The author does not take responsibility for the usage of this code. The project is made for demonstration purposes ONLY.
 
 HOW TO RUN:
 
-Put your images into user_images.
-Run classify.py with Python console.
-You can also use Spyder IDE to open folder as project and run files from there.
+1. Put your images into the "user_images" directory.
+2. Run "classify.py" using the Python console.
 
-HOW TO TRAIN MODELS AGAIN:
+Alternatively, you can use the Spyder IDE to open the folder as a project and run the files from there.
 
-Download data from: 
-www.kaggle.comdatasetsdaniilonishchenkomushrooms-images-classification-215
 
-Unpack the zip. into data_model
+HOW TO TRAIN MODELS BY YOURSELF:
 
-Run train_models.py with Python console. 
+1. Download the data from:
+www.kaggle.com/datasets/daniilonishchenkomushrooms-images-classification-215
+
+2. Unpack the zip file into the "data_model" directory.
+3. Run "train_models.py" using the Python console.
